@@ -1,0 +1,6 @@
+Folder:C:\Users\CyberBlack\Pictures\Projects\Bhinderjit\Fury Road\Assets\Scripts
+TotalFiles:0
+TotalSize:0 Bytes
+TotalFolders:0
+TotalExtensions:0
+TotalSize:00:00:00.000
