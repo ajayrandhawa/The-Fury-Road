@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: f80ebaa7ac6dd5c4195928bc03729873
+timeCreated: 1467901047
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boats_1
+    21300002: boats_2
+    21300004: boats_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boats_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 72
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 88.5}
+        - {x: -36, y: 84.5}
+        - {x: -36, y: -98.5}
+        - {x: 36, y: -98.5}
+        - {x: 36, y: 51.5}
+        - {x: -21, y: 88.5}
+    - name: boats_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 65
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -118.5}
+        - {x: 12.5, y: -118.5}
+        - {x: 32.5, y: -107.5}
+        - {x: 32.5, y: 118.5}
+        - {x: -3.5, y: 118.5}
+        - {x: -32.5, y: 86.5}
+    - name: boats_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 65
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 106}
+        - {x: -32.5, y: 67}
+        - {x: -32.5, y: -91}
+        - {x: -28.5, y: -110}
+        - {x: 32.5, y: -110}
+        - {x: 32.5, y: 85}
+        - {x: 21.5, y: 106}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

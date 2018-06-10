@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: e5dffd9c137d96a42b2ac514c626592d
+timeCreated: 1467502067
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wheel2
+    21300002: wheel1
+    21300004: carbody
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wheel2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 178
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 35.5}
+        - {x: -35.5, y: -28.5}
+        - {x: -18.5, y: -35.5}
+        - {x: 27.5, y: -35.5}
+        - {x: 35.5, y: -24.5}
+        - {x: 35.5, y: 23.5}
+        - {x: 28.5, y: 35.5}
+    - name: wheel1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 178
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 35.5}
+        - {x: -35.5, y: -28.5}
+        - {x: -18.5, y: -35.5}
+        - {x: 27.5, y: -35.5}
+        - {x: 35.5, y: -24.5}
+        - {x: 35.5, y: 23.5}
+        - {x: 28.5, y: 35.5}
+    - name: carbody
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 404
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: -82}
+        - {x: 202, y: -70}
+        - {x: 202, y: -21}
+        - {x: 187, y: 13}
+        - {x: 38, y: 74}
+        - {x: 23, y: 78}
+        - {x: -11, y: 85}
+        - {x: -130, y: 85}
+        - {x: -191, y: 12}
+        - {x: -202, y: -6}
+        - {x: -202, y: -52}
+        - {x: -189, y: -84}
+        - {x: -168, y: -80}
+        - {x: -131, y: -38}
+        - {x: -116, y: -69}
+        - {x: -105, y: -85}
+        - {x: 24, y: -85}
+        - {x: 77, y: -83}
+        - {x: 103, y: -72}
+        - {x: 144, y: -38}
+        - {x: 159, y: -73}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
